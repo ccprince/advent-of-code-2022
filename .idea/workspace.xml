@@ -5,11 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1a5d269d-29ef-4212-aedb-8e85486e9307" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/data/day02.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/day02/Day02.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/kotlin/day02/Day02.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/day03.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/day06.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/day06/Day06.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/kotlin/day06/Day06.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/day03/Day03.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/day03/Day03.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/kotlin/day03/Day03.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/kotlin/day03/Day03.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,8 +26,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin File" />
         <option value="Kotlin Class" />
+        <option value="Kotlin File" />
       </list>
     </option>
   </component>
@@ -53,7 +55,7 @@
       <recent name="day01" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.Day02Kt">
+  <component name="RunManager" selected="Kotlin.Day06Kt">
     <configuration name="Tests in 'advent2022.test'" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -89,10 +91,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Day03Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day03.Day03Kt" />
+      <module name="advent2022.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day06Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day06.Day06Kt" />
+      <module name="advent2022.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.Day02Kt" />
+        <item itemvalue="Kotlin.Day06Kt" />
         <item itemvalue="Gradle.Tests in 'advent2022.test'" />
+        <item itemvalue="Kotlin.Day03Kt" />
+        <item itemvalue="Kotlin.Day02Kt" />
         <item itemvalue="Kotlin.Day01Kt" />
       </list>
     </recent_temporary>

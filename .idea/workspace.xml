@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1a5d269d-29ef-4212-aedb-8e85486e9307" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/data/day10-test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/day10.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/day10/Day10.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/kotlin/day10/Day10Test.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/day11.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/day11/Day11.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/kotlin/day11/Day11Test.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,8 +23,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin Class" />
         <option value="Kotlin File" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -53,7 +52,7 @@
       <recent name="day01" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.Day10Kt">
+  <component name="RunManager" selected="Kotlin.Day11Kt">
     <configuration name="Tests in 'advent2022.test'" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -89,13 +88,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day06Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day06.Day06Kt" />
-      <module name="advent2022.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Day10Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day10.Day10Kt" />
       <module name="advent2022.main" />
@@ -103,13 +95,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Day11Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day11.Day11Kt" />
+      <module name="advent2022.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.Day10Kt" />
+        <item itemvalue="Kotlin.Day11Kt" />
         <item itemvalue="Gradle.Tests in 'advent2022.test'" />
+        <item itemvalue="Kotlin.Day10Kt" />
         <item itemvalue="Kotlin.Day05Kt" />
         <item itemvalue="Kotlin.Day04Kt" />
-        <item itemvalue="Kotlin.Day06Kt" />
       </list>
     </recent_temporary>
   </component>
